@@ -1,4 +1,4 @@
-﻿namespace _002_Dalsi_writeline
+﻿namespace _01_Uvod_02_Dalsi_writeline
 {
     internal class Program
     {
