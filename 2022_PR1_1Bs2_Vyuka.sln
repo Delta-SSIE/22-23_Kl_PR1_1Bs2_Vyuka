@@ -5,19 +5,29 @@ VisualStudioVersion = 17.4.32804.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_Uvod", "01_Uvod", "{EEF3B999-A7C6-4DCD-8907-48E5E8A559FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Uvod_04_promenne", "01_Uvod_04_promenne\01_Uvod_04_promenne.csproj", "{7408738E-49ED-4D34-8835-A164788A596F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Uvod_04_promenne", "01_Uvod_04_promenne\01_Uvod_04_promenne.csproj", "{7408738E-49ED-4D34-8835-A164788A596F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Uvod_05_Cisla", "01_Uvod_05_Cisla\01_Uvod_05_Cisla.csproj", "{846C315A-7A56-4C06-9BC9-7A0AE4F16B0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Uvod_05_Cisla", "01_Uvod_05_Cisla\01_Uvod_05_Cisla.csproj", "{846C315A-7A56-4C06-9BC9-7A0AE4F16B0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Uvod_06_Nacteni_cisla", "01_Uvod_06_Nacteni_cisla\01_Uvod_06_Nacteni_cisla.csproj", "{22437AC2-0367-42DF-90CA-0A1DBFE60EED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Uvod_06_Nacteni_cisla", "01_Uvod_06_Nacteni_cisla\01_Uvod_06_Nacteni_cisla.csproj", "{22437AC2-0367-42DF-90CA-0A1DBFE60EED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Uvod_07_Chary", "01_Uvod_07_Chary\01_Uvod_07_Chary.csproj", "{E09E3089-2C4E-4948-ABD7-C59B008F9623}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Uvod_07_Chary", "01_Uvod_07_Chary\01_Uvod_07_Chary.csproj", "{E09E3089-2C4E-4948-ABD7-C59B008F9623}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Uvod__Prvni_program", "01_Uvod__Prvni_program\01_Uvod__Prvni_program.csproj", "{4707D806-5E37-4CC9-97C5-A1E3178FD0B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Uvod__Prvni_program", "01_Uvod__Prvni_program\01_Uvod__Prvni_program.csproj", "{4707D806-5E37-4CC9-97C5-A1E3178FD0B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Uvod_02_Dalsi_writeline", "01_Uvod_02_Dalsi_writeline\01_Uvod_02_Dalsi_writeline.csproj", "{8957E98F-8563-4F85-B72A-C98D23D17731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Uvod_02_Dalsi_writeline", "01_Uvod_02_Dalsi_writeline\01_Uvod_02_Dalsi_writeline.csproj", "{8957E98F-8563-4F85-B72A-C98D23D17731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Uvod_03_Uzivatelsky_vstup", "01_Uvod_03_Uzivatelsky_vstup\01_Uvod_03_Uzivatelsky_vstup.csproj", "{14B19B7A-5616-4610-A89A-FB8832807D08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01_Uvod_03_Uzivatelsky_vstup", "01_Uvod_03_Uzivatelsky_vstup\01_Uvod_03_Uzivatelsky_vstup.csproj", "{14B19B7A-5616-4610-A89A-FB8832807D08}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_Podminky", "02_Podminky", "{C92598D1-C5AB-4E5C-AC04-6E3C039D7935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Podm_01_Vyber_auta", "02_Podm_01_Vyber_auta\02_Podm_01_Vyber_auta.csproj", "{2536DDF2-BC9A-4974-AF67-3B47708E0672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Podm_02_Vice_vetvi", "02_Podm_02_Vice_vetvi\02_Podm_02_Vice_vetvi.csproj", "{9821F40D-6EE1-44E6-AA40-0D7A2ADC6564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Podm_03_Delidlo", "03_Podm_030_Delidlo\02_Podm_03_Delidlo.csproj", "{66E2592A-9D79-4C8D-8540-5DDD96709C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Podm_04_Bool", "02_Podm_04_Bool\02_Podm_04_Bool.csproj", "{27B5572C-AE25-4CC7-83A6-C7AD49810B1B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +63,22 @@ Global
 		{14B19B7A-5616-4610-A89A-FB8832807D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14B19B7A-5616-4610-A89A-FB8832807D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14B19B7A-5616-4610-A89A-FB8832807D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2536DDF2-BC9A-4974-AF67-3B47708E0672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2536DDF2-BC9A-4974-AF67-3B47708E0672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2536DDF2-BC9A-4974-AF67-3B47708E0672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2536DDF2-BC9A-4974-AF67-3B47708E0672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9821F40D-6EE1-44E6-AA40-0D7A2ADC6564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9821F40D-6EE1-44E6-AA40-0D7A2ADC6564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9821F40D-6EE1-44E6-AA40-0D7A2ADC6564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9821F40D-6EE1-44E6-AA40-0D7A2ADC6564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E2592A-9D79-4C8D-8540-5DDD96709C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E2592A-9D79-4C8D-8540-5DDD96709C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E2592A-9D79-4C8D-8540-5DDD96709C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E2592A-9D79-4C8D-8540-5DDD96709C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B5572C-AE25-4CC7-83A6-C7AD49810B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B5572C-AE25-4CC7-83A6-C7AD49810B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B5572C-AE25-4CC7-83A6-C7AD49810B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B5572C-AE25-4CC7-83A6-C7AD49810B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -65,6 +91,10 @@ Global
 		{4707D806-5E37-4CC9-97C5-A1E3178FD0B0} = {EEF3B999-A7C6-4DCD-8907-48E5E8A559FF}
 		{8957E98F-8563-4F85-B72A-C98D23D17731} = {EEF3B999-A7C6-4DCD-8907-48E5E8A559FF}
 		{14B19B7A-5616-4610-A89A-FB8832807D08} = {EEF3B999-A7C6-4DCD-8907-48E5E8A559FF}
+		{2536DDF2-BC9A-4974-AF67-3B47708E0672} = {C92598D1-C5AB-4E5C-AC04-6E3C039D7935}
+		{9821F40D-6EE1-44E6-AA40-0D7A2ADC6564} = {C92598D1-C5AB-4E5C-AC04-6E3C039D7935}
+		{66E2592A-9D79-4C8D-8540-5DDD96709C93} = {C92598D1-C5AB-4E5C-AC04-6E3C039D7935}
+		{27B5572C-AE25-4CC7-83A6-C7AD49810B1B} = {C92598D1-C5AB-4E5C-AC04-6E3C039D7935}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {727069B2-242C-483F-895A-525047D1E3F2}
