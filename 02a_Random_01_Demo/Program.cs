@@ -19,11 +19,14 @@
             Console.WriteLine(generator.Next(1, 7));
             Console.WriteLine(generator.Next(1, 7));
 
+            for (int i = 0; i < 50; i++) { 
             int hod = generator.Next(0, 2);
             if (hod == 0)
                 Console.WriteLine("Padla panna");
             else
                 Console.WriteLine("Padl vorel");
+            }
+
         }
     }
 }
