@@ -17,7 +17,7 @@
                 suma += cislo;
             }
 
-            Console.WriteLine($"Konec programu, součet všech čísel byl {cislo}.");
+            Console.WriteLine($"Konec programu, součet všech čísel byl {suma}.");
         }
     }
 }
