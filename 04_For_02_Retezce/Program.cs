@@ -32,27 +32,45 @@ namespace _04_For_02_Retezce
 
 
             //vyhazim mezery
-            string bezMezer = string.Empty;
-            for (int i = 0; i < veta.Length; i++)
-            {
-                char znak = veta[i];
-                if (znak != ' ')
-                    bezMezer += znak;
-            }
-            Console.WriteLine(bezMezer);
+            //string bezMezer = string.Empty;
+            //for (int i = 0; i < veta.Length; i++)
+            //{
+            //    char znak = veta[i];
+            //    if (znak != ' ')
+            //        bezMezer += znak;
+            //}
+            //Console.WriteLine(bezMezer);
 
 
             //oddelovac za kazdym pismenem
-            char oddelovac = '|';
-            string sOddelovaci = string.Empty;
-            for (int i = 0; i < veta.Length; i++)
+            //char oddelovac = '|';
+            //string sOddelovaci = string.Empty;
+            //for (int i = 0; i < veta.Length; i++)
+            //{
+            //    char znak = veta[i];
+            //    sOddelovaci += znak;
+            //    sOddelovaci += oddelovac;
+            //}
+
+            //Console.WriteLine(sOddelovaci);
+
+            string vstup = "Every Day Is a Holiday";
+
+            //vypsat jen velá písmena
+            //for (int i = 0; i < vstup.Length; i++)
+            //{
+            //    char znak = vstup[i];
+            //    int kodZnaku = (int)znak;
+            //    Console.WriteLine(znak + ": " + kodZnaku);
+            //}
+
+            for (int i = 0; i < vstup.Length; i++)
             {
-                char znak = veta[i];
-                sOddelovaci += znak;
-                sOddelovaci += oddelovac;
+                char znak = vstup[i];
+                if (znak >= 65 && znak <= 90)
+                    Console.Write(znak);
             }
 
-            Console.WriteLine(sOddelovaci);
         }
     }
 }
